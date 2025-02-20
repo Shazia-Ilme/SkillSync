@@ -45,13 +45,13 @@ function App() {
 
   const branches = [
     'Computer Science', 'Mechanical Engineering', 'Electrical Engineering',
-    'Civil Engineering', 'Chemical Engineering', 'Business Administration',
+    'Civil Engineering', 'Information Science Engineering', 'Business Administration',
     'Medicine', 'Law', 'Arts & Design', 'Natural Sciences'
   ];
 
   const locations = [
     'University Library', 'Study Hall', 'Campus Center',
-    'Virtual', 'Coffee Shop', 'Research Lab'
+    'Virtual', 'Cafe', 'Research Lab','Flexible/Any'
   ];
 
   const handleAddSubject = () => {
